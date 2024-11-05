@@ -1,0 +1,18 @@
+.kartya img {
+  width: 200px;
+  height: 200px;
+  border-radius: 7px;
+}
+.kartya {
+  border-radius: 10px;
+  border: 2px solid grey;
+  width: fit-content;
+  padding: 1rem;
+}
+
+.mutat {
+  visibility: visible;
+}
+.fed {
+  visibility: hidden;
+}
